@@ -17,8 +17,6 @@ He loves building secure, efficient systems using C++ & Python and basically liv
 
 - 🌱 I’m currently learning Competitive Programming (Practicing on [Codeforces](https://codeforces.com/profile/maybe-next-time) & [LeetCode](https://www.leetcode.com/navidrem) & [Quera](https://quera.org/profile/NavidrezaEmami))
 
-- 📫 How to reach me: [navidrezaemami80@gmail.com](mailto:navidrezaemami80@gmail.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/navid-emami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navid-emami" height="40" width="40" /></a>
