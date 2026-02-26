@@ -22,7 +22,7 @@ He loves building secure, efficient systems using C++ & Python and basically liv
 <sup><a href="https://linkedin.com/in/navid-emami" target="_blank"><img align="center" src="./assets/linkedin.png" alt="LinkedIn" title="LinkedIn" height="40" width="40" /></a></sup> &nbsp;&nbsp;
 <a href="mailto:navidrezaemami80@gmail.com" target="_blank"><img align="center" src="./assets/gmail.png" alt="Email" title="Email" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://t.me/navidrem" target="_blank"><img align="center" src="./assets/telegram.png" alt="Telegram" title="Telegram" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/in/navid-emami" target="_blank"><img align="center" src="./assets/discord.png" alt="Discord" title="Discord" height="40" width="40" /></a>
+<a href="https://discordapp.com/users/705086742386180197" target="_blank"><img align="center" src="./assets/discord.png" alt="Discord" title="Discord" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
