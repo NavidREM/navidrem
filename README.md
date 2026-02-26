@@ -2,11 +2,9 @@
   <img src="./assets/main-banner.png" alt="Banner loding failed" width="100%" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=navidrem&label=Profile%20views&color=0e75b6&style=flat" alt="navidrem" /> </p>
-
 ---
 
-🎙️ Umm... umm... is this mic on? Testing... 1, 2... Wait, they can hear me now? OK, OK.
+🎙️ Umm... umm... is this thing on? Testing... 1, 2... Whaaat!! they can hear me now? OK, OK.
 
 Oh Hi! This is Navid's heart speaking. He’s currently busy typing away in his Linux terminal, so I’ll do the introductions. 
 
