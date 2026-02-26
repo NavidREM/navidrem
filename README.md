@@ -15,13 +15,13 @@ He loves building secure, efficient systems using C++ & Python and basically liv
 
 - 🔭 I’m currently working on [Hotel Management Software](https://github.com/NavidREM/hotel-management-software)
 
-- 🌱 I’m currently learning Competitive Programming (Practicing on Codeforces & LeetCode)
+- 🌱 I’m currently learning Competitive Programming (Practicing on [Codeforces](https://codeforces.com/profile/maybe-next-time) & [LeetCode](https://www.leetcode.com/navidrem) & [Quera](https://quera.org/profile/NavidrezaEmami))
 
 - 📫 How to reach me: [navidrezaemami80@gmail.com](mailto:navidrezaemami80@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/navid-emami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navid-emami" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/navid-emami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navid-emami" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/maybe-next-time" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maybe-next-time" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/navidrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navidrem" height="30" width="40" /></a>
 <a href="mailto:navidrezaemami80@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
