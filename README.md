@@ -28,12 +28,12 @@ He loves building secure, efficient systems using C++ & Python and basically liv
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="#"> <img src="./assets/cpp.png" alt="C++" title="C++" width="40" height="40" /> </a> &nbsp;
-<a href="#"> <img src="./assets/python.png" alt="Python" title="Python" width="40" height="40"/> </a> &nbsp;
-<a href="#"> <img src="./assets/sql-server.png" alt="SQL" title="SQL" width="40" height="40"/> </a> &nbsp;
-<a href="#"> <img src="./assets/git.png" alt="Git" title="Git" width="40" height="40"/> </a> &nbsp;
-<a href="#"> <img src="./assets/linux.png" alt="Linux" title="Linux" width="40" height="40"/> </a> &nbsp;
-<a href="#"> <img src="./assets/.png" alt="CSS" title="CSS" width="40" height="40"/> </a> &nbsp;
-<a href="#"> <img src="./assets/.png" alt="HTML" title="HTML" width="40" height="40"/> </a>
+<picture> <img src="./assets/cpp.png" alt="C++" title="C++" width="40" height="40" /> </picture> &nbsp;
+<picture> <img src="./assets/python.png" alt="Python" title="Python" width="40" height="40"/> </picture> &nbsp;
+<picture> <img src="./assets/sql-server.png" alt="SQL" title="SQL" width="40" height="40"/> </picture> &nbsp;
+<picture> <img src="./assets/git.png" alt="Git" title="Git" width="40" height="40"/> </picture> &nbsp;
+<picture> <img src="./assets/linux.png" alt="Linux" title="Linux" width="40" height="40"/> </picture> &nbsp;
+<picture> <img src="./assets/.png" alt="CSS" title="CSS" width="40" height="40"/> </picture> &nbsp;
+<picture> <img src="./assets/.png" alt="HTML" title="HTML" width="40" height="40"/> </picture>
 </p>
 
