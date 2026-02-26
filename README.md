@@ -1,4 +1,7 @@
-<h1 align="center">👋, I'm Navid</h1>
+<p align="center">
+  <img src="./assets/main-banner.png" alt="Banner loding failed" width="100%" />
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=navidrem&label=Profile%20views&color=0e75b6&style=flat" alt="navidrem" /> </p>
 
 ---
