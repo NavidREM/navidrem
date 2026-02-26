@@ -22,7 +22,7 @@ He loves building secure, efficient systems using C++ & Python and basically liv
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/navid-emami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navid-emami" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/maybe-next-time" target="blank"><img align="center" src="./assets/cpp" alt="maybe-next-time" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/maybe-next-time" target="blank"><img align="center" src="./assets/premiere pro.png" alt="maybe-next-time" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/navidrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navidrem" height="30" width="40" /></a>
 <a href="mailto:navidrezaemami80@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
 </p>
