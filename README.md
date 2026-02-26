@@ -1,18 +1,37 @@
-<h1 align="center">Hi 👋, I'm Navid</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navidrem&label=Profile%20views&color=0e75b6&style=flat" alt="navidrem" /> </p>
+<h1 align="center">👋, I'm Navid</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=navidrem&label=Profile%20views&color=0e75b6&style=flat" alt="navidrem" /> </p>
+
+---
+
+🎙️ Umm... umm... is this mic on? Testing... 1, 2... Wait, they can hear me now? OK, OK.
+
+Oh Hi! This is Navid's heart speaking. He’s currently busy typing away in his Linux terminal, so I’ll do the introductions. 
+
+He’s a passionate Computer Engineering student actively exploring the world of software development. While he has dipped his toes into Game Dev, Web, and Graphic Design, let's be honest: my beats are completely synced with Cybersecurity and Networking. 🛡️🌐
+
+He loves building secure, efficient systems using C++ & Python and basically lives in a Linux environment. Oh, and between you and me, he is secretly plotting to dive deep into AI for his Master's... but let's keep that our little secret for now! 🤫🤖
+
+---
 
 - 🔭 I’m currently working on [Hotel Management Software](https://github.com/NavidREM/hotel-management-software)
 
-- 🌱 I’m currently learning **competitive programming**
+- 🌱 I’m currently learning Competitive Programming (Practicing on Codeforces & LeetCode)
 
-- 📫 How to reach me **navidrezaemami80@gmail.com**
+- 📫 How to reach me: [navidrezaemami80@gmail.com](mailto:navidrezaemami80@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/navid-emami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navid-emami" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/maybe-next-time" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maybe-next-time" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/navidrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navidrem" height="30" width="40" /></a>
+<a href="mailto:navidrezaemami80@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+</p>
