@@ -19,10 +19,10 @@ He loves building secure, efficient systems using C++ & Python and basically liv
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/navid-emami" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navid-emami" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/maybe-next-time" target="blank"><img align="center" src="./assets/premiere pro.png" alt="maybe-next-time" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/navidrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navidrem" height="30" width="40" /></a>
-<a href="mailto:navidrezaemami80@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
+<sup><a href="https://linkedin.com/in/navid-emami" target="_blank"><img align="center" src="./assets/linkedin.png" alt="LinkedIn" title="LinkedIn" height="40" width="40" /></a></sup> &nbsp;&nbsp;
+<a href="mailto:navidrezaemami80@gmail.com" target="_blank"><img align="center" src="./assets/gmail.png" alt="Email" title="Email" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://t.me/navidrem" target="_blank"><img align="center" src="./assets/telegram.png" alt="Telegram" title="Telegram" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/navid-emami" target="_blank"><img align="center" src="./assets/discord.png" alt="Discord" title="Discord" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
