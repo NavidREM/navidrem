@@ -30,10 +30,17 @@ He loves building secure, efficient systems using C++ & Python and basically liv
 <p align="left"> 
 <picture> <img src="./assets/cpp.png" alt="C++" title="C++" width="40" height="40" /> </picture> &nbsp;
 <picture> <img src="./assets/python.png" alt="Python" title="Python" width="40" height="40"/> </picture> &nbsp;
-<picture> <img src="./assets/sql-server.png" alt="SQL" title="SQL" width="40" height="40"/> </picture> &nbsp;
+<picture> <img src="./assets/sql-server.png" alt="SQL" title="SQL: MySQL" width="40" height="40"/> </picture> &nbsp;
 <picture> <img src="./assets/git.png" alt="Git" title="Git" width="40" height="40"/> </picture> &nbsp;
 <picture> <img src="./assets/linux.png" alt="Linux" title="Linux" width="40" height="40"/> </picture> &nbsp;
-<picture> <img src="./assets/.png" alt="CSS" title="CSS" width="40" height="40"/> </picture> &nbsp;
-<picture> <img src="./assets/.png" alt="HTML" title="HTML" width="40" height="40"/> </picture>
+<picture> <img src="./assets/css.png" alt="CSS" title="CSS" width="40" height="40"/> </picture> &nbsp;
+<picture> <img src="./assets/html.png" alt="HTML" title="HTML" width="40" height="40"/> </picture>
+</p>
+
+<h3 align="left">Also Familiar With:</h3>
+<p align="left"> 
+<picture> <img src="./assets/photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" width="40" height="40" /> </picture> &nbsp;
+<picture> <img src="./assets/premiere-pro.png" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" width="40" height="40"/> </picture> &nbsp;
+<picture> <img src="./assets/unreal-engine.png" alt="Unreal Engine" title="Unreal Engine" width="40" height="40"/> </picture>
 </p>
 
